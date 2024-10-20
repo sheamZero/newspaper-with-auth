@@ -16,6 +16,8 @@ const NewsDetails = () => {
             <h2 className="text-3xl font-semibold my-5">{result.title}</h2>
             <img src={result.image_url} alt="" />
 
+    
+
         </div>
     );
 };
